@@ -1,0 +1,33 @@
+2024-06-21 20:00:59 INFO  tc_AccountReg_001:14 - Started Test case tc_AccountReg_001
+2024-06-21 20:00:59 INFO  tc_AccountReg_001:21 - clicked My Account link
+2024-06-21 20:01:00 INFO  tc_AccountReg_001:24 - clicked Register link
+2024-06-21 20:01:00 INFO  tc_AccountReg_001:28 - Providing Details
+2024-06-21 20:01:03 INFO  tc_AccountReg_001:43 - Validating Expected message
+2024-06-21 20:01:03 INFO  tc_AccountReg_001:55 - Finished Testcase tc_AccountReg_001
+2024-06-21 20:01:06 INFO  tc_Login_002:18 - Starting tc_Login_002
+2024-06-21 20:01:09 INFO  tc_Login_002:23 - Clicked on Login button in My Account Page
+2024-06-21 20:01:11 INFO  tc_Login_002:29 - Clicked on Login button after entering username and password
+2024-06-21 20:01:11 INFO  tc_Login_002:37 - Navigated successfully to my Account page
+2024-06-21 20:01:12 INFO  tc_Login_002:41 - Logged out successfully
+2024-06-21 20:20:16 INFO  tc_AccountReg_001:14 - Started Test case tc_AccountReg_001
+2024-06-21 20:20:16 INFO  tc_AccountReg_001:21 - clicked My Account link
+2024-06-21 20:20:18 INFO  tc_AccountReg_001:24 - clicked Register link
+2024-06-21 20:20:18 INFO  tc_AccountReg_001:28 - Providing Details
+2024-06-21 20:20:20 INFO  tc_AccountReg_001:43 - Validating Expected message
+2024-06-21 20:20:20 INFO  tc_AccountReg_001:55 - Finished Testcase tc_AccountReg_001
+2024-06-21 20:20:27 INFO  tc_Login_002:18 - Starting tc_Login_002
+2024-06-21 20:20:28 INFO  tc_Login_002:23 - Clicked on Login button in My Account Page
+2024-06-21 20:20:30 INFO  tc_Login_002:29 - Clicked on Login button after entering username and password
+2024-06-21 20:20:30 INFO  tc_Login_002:37 - Navigated successfully to my Account page
+2024-06-21 20:20:31 INFO  tc_Login_002:41 - Logged out successfully
+2024-06-21 20:37:05 INFO  tc_AccountReg_001:14 - Started Test case tc_AccountReg_001
+2024-06-21 20:37:05 INFO  tc_AccountReg_001:21 - clicked My Account link
+2024-06-21 20:37:06 INFO  tc_AccountReg_001:24 - clicked Register link
+2024-06-21 20:37:06 INFO  tc_AccountReg_001:28 - Providing Details
+2024-06-21 20:37:09 INFO  tc_AccountReg_001:43 - Validating Expected message
+2024-06-21 20:37:09 INFO  tc_AccountReg_001:55 - Finished Testcase tc_AccountReg_001
+2024-06-21 20:37:14 INFO  tc_Login_002:18 - Starting tc_Login_002
+2024-06-21 20:37:16 INFO  tc_Login_002:23 - Clicked on Login button in My Account Page
+2024-06-21 20:37:18 INFO  tc_Login_002:29 - Clicked on Login button after entering username and password
+2024-06-21 20:37:18 INFO  tc_Login_002:37 - Navigated successfully to my Account page
+2024-06-21 20:37:19 INFO  tc_Login_002:41 - Logged out successfully

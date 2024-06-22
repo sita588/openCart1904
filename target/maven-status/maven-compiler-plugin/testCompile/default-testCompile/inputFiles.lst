@@ -1,0 +1,12 @@
+C:\workspace\SeleniumProject\openCart1904\src\test\java\pageObjects\AccountRegistrationDetails.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\pageObjects\BasePage.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\pageObjects\HomePage.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\pageObjects\LoginPage.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\pageObjects\MyAccountPage.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\testBase\BaseClass.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\testCases\tc_AccountReg_001.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\testCases\tc_Login_002.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\testCases\tc_Login_DDT_003.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\utilities\DataProviders.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\utilities\ExcelUtility.java
+C:\workspace\SeleniumProject\openCart1904\src\test\java\utilities\ExtentReportManager.java
